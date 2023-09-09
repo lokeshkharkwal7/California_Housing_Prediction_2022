@@ -1,0 +1,33 @@
+1. While downloading a file to a directory or moving a csv file you need to make sure that 
+the path you make should also consist of the name of the file
+
+eg: os.path.join("artifact_dir", "train_data") to 
+    os.path.join("artifact_dir", "train_data" , "name_of_file.csv/name_of_file.tar")
+
+1. We can compare 2 data frames using is statement
+
+                                    if x_train is x_test:
+                                                break
+1. 
+            # You can find any data you want in the dictionary in the dictionary using the below code:
+
+    highest_score = max([ i['Model_score'] for i in yaml_data.values()])
+    highest_score_model = [ i for i in yaml_data.values()  if i.get('Model_score')==highest_score]
+
+
+Normal errors:
+      importing error
+      stupid arguments provided in the model.yaml file
+      not assigning the dataframes to the right variables
+      error while importing the modules dynamically
+
+
+Solving problems while creating a virtual environment in vs code:
+- Run vs code in admin mode 
+- Run this script in terminal Get-ExecutionPolicy
+- Run second Script in terminal Set-ExecutionPolicy RemoteSigned
+- Run final script in terminal venv\Scripts\Activate.ps1
+- Then install requirements.txt 
+
+Now it will be done
+

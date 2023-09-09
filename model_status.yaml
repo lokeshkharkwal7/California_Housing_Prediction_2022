@@ -1,0 +1,85 @@
+Best Model:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7230527144494521
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_18_19_38_\RandomForestRegressor.pkl
+  best_model_parameters: &id001
+    max_depth: 10
+    n_estimators: 200
+Model03_09_00_25_31_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7074716089658655
+  Pickle_Location: c:\Users\Lokesh\Desktop\Testing project\Model_container\01_09_11_56_33_\GradientBoostingRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model03_09_00_27_29_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7074716089658655
+  Pickle_Location: c:\Users\Lokesh\Desktop\Testing project\Model_container\01_09_11_56_33_\GradientBoostingRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_02_51_46_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7074716089658655
+  Pickle_Location: "C:\\Users\\Lokesh\\Desktop\\California Housing Price Prediction\
+    \ 2020\\Model_container\08_09_23_33_22_\\RandomForestRegressor.pkl"
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_02_53_22_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7074716089658655
+  Pickle_Location: "C:\\Users\\Lokesh\\Desktop\\California Housing Price Prediction\
+    \ 2020\\Model_container\08_09_23_33_22_\\RandomForestRegressor.pkl"
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_02_53_29_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7074716089658655
+  Pickle_Location: "C:\\Users\\Lokesh\\Desktop\\California Housing Price Prediction\
+    \ 2020\\Model_container\08_09_23_33_22_\\RandomForestRegressor.pkl"
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_03_14_53_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.722784744207158
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_02_56_45_\RandomForestRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_14_10_39_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7218397930229898
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_13_57_52_\RandomForestRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_15_03_33_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.722555162860749
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_14_51_17_\RandomForestRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_17_14_52_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7217452752148129
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_17_00_24_\RandomForestRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_17_34_01_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7228783323523822
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_17_21_12_\RandomForestRegressor.pkl
+  best_model_parameters:
+    max_depth: 10
+    n_estimators: 200
+Model09_09_18_28_47_:
+  Model_name: RandomForestRegressor
+  Model_score: 0.7230527144494521
+  Pickle_Location: C:\Users\Lokesh\Desktop\California Housing Price Prediction 2020\Model_container\09_09_18_19_38_\RandomForestRegressor.pkl
+  best_model_parameters: *id001

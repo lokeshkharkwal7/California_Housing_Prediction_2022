@@ -1,0 +1,28 @@
+columns:
+  longitude: float
+  latitude: float
+  housingMedianAge: float
+  totalRooms: float
+  totalBedrooms: float
+  population: float
+  households: float
+  medianIncome: float
+  
+
+numerical_columns:
+  - longitude                                                        
+  - latitude
+  - housingMedianAge
+  - totalRooms
+  - totalBedrooms
+  - population
+  - households
+  - medianIncome
+
+
+
+categorical_columns:
+  - 
+
+target_columns:
+  medianHouseValue

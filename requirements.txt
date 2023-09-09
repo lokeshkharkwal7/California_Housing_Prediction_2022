@@ -1,0 +1,7 @@
+-e .
+pandas
+scipy
+statsmodels
+pandas_profiling
+scikit-learn
+evidently

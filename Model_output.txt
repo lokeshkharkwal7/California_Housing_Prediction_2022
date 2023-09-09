@@ -1,0 +1,28 @@
+[['RandomForestRegressor', 0.7219671307652735, -0.8079208156997089, -1.5298879464649824, 'Proper Fit'], 
+['GradientBoostingRegressor', 0.7140925268578212, -0.7365298373996367, -1.450622364257458, 'Proper Fit'], 
+['SVR', 0.05073428137573166, -0.025559995198209062, -0.07629427657394072, 'Proper Fit']]
+
+
+
+test 1:
+[['SVR', 0.011173781146305073, -0.03737611166178256, -0.048549892808087636, 'Proper Fit']]
+
+test 2:
+
+[['SVR', 0.011173781146305073, -0.03737611166178256, -0.048549892808087636, 'Proper Fit']]
+
+[['RandomForestRegressor', 0.7234959682445404, -0.8013548665829069, -1.5248508348274474, 'Proper Fit', -146215.78961813689]
+['GradientBoostingRegressor', 0.7141797088135338, -0.7376010269305475, -1.4517807357440813, 'Proper Fit', -143601.63228205583]
+['SVR', 0.05073428137573155, -0.02555999519820884, -0.07629427657394039, 'Proper Fit', -110281.62551356455]]
+
+model_selection_entity(model_name=['RandomForestRegressor', 'GradientBoostingRegressor', 'SVR'], respective_parameters=[{'max_depth': 10, 'n_estimators': 200}, {'learning_rate': 0.3}, {'kernel': 'linear'}], score_training=[0.7070187040832481, 0.7033989031017618, 0.011173781146305073], fitting_status=['Overfitted', 'Overfitted', 'Proper Fit'], module_address=[<class 'sklearn.ensemble._forest.RandomForestRegressor'>, <class 'sklearn.ensemble._gb.GradientBoostingRegressor'>, <class 'sklearn.svm._classes.SVR'>], pickle_storage_loc=['c:/Model_container/modelRandomForestRegressor.pkl', 'c:/Model_container/modelGradientBoostingRegressor.pkl', 'c:/Model_container/modelSVR.pkl'])
+
+
+longitude            
+latitude            
+housingMedianAge    
+totalRooms           
+totalBedrooms        
+population          
+households           
+medianIncome         

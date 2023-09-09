@@ -1,0 +1,24 @@
+Data Ingestion:
+  url: https://figshare.com/ndownloader/files/5976036
+ 
+Data validation:
+  schema: 'schema.yaml'
+
+Data Transformation:
+  transformed_dir_name: transformed_dir
+
+Model Selection:
+  underfitting_score : 0.25
+  model_container_dir: 'Model_container'
+
+Model Pusher:
+  best_model_dir : 'Best_model'
+
+        
+
+  
+
+
+
+  
+    
