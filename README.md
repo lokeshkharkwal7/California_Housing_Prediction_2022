@@ -1,6 +1,10 @@
 # California_Housing_Prediction_2022
 This project uses Entity and Artifact concept to manage various data tasks like collecting, validating, and transforming data. It also helps choose the best model for a task and allows easy one-click training for the final Prediction. Plus, it handles files, keeps logs, and manages settings and generates useful reports including one on Data Drift and EDA Analysis.
 
+Prject Structure:
+
+![dfgdfd-1](https://github.com/lokeshkharkwal7/California_Housing_Prediction_with_data_2022/assets/115694554/b52212a4-2121-4585-95c7-ca1451ce925c)
+
 Home Screen - Streamlined Pipeline Initialization with a Single Click:
 
 ![image](https://github.com/lokeshkharkwal7/California_Housing_Prediction_with_data_2022/assets/115694554/b5023948-1321-404a-a91d-3c587c621cec)
